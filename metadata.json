@@ -1,0 +1,5 @@
+{
+  "name": "Threads Clone",
+  "description": "A web application that replicates the user interface and core feed functionality of the Threads social media platform, built with React and Tailwind CSS.",
+  "requestFramePermissions": []
+}
